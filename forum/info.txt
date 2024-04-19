@@ -1,0 +1,8 @@
+**ALTER TABLE threads ADD FULLTEXT(thread_title, thread_desc);**
+
+run this query if any fetal error occur in search.php
+
+
+
+
+#lavnesh dhaked.
